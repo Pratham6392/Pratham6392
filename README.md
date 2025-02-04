@@ -1,7 +1,8 @@
 
 
 <p align="center">
- <blockquote class="imgur-embed-pub" lang="en" data-id="1WPd00w"><a href="https://imgur.com/1WPd00w">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+  <img src="
+![1WPd00w - Imgur](https://github.com/user-attachments/assets/2e99c3b9-5831-4924-91f8-f9e070118e39)" alt="Cover Image" style="width:100%; max-width:800px;">
 </p>
 
 
