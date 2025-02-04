@@ -1,9 +1,8 @@
 
 
-<p align="center">
-  <img src="
-![1WPd00w - Imgur](https://github.com/user-attachments/assets/2e99c3b9-5831-4924-91f8-f9e070118e39)" alt="Cover Image" style="width:100%; max-width:800px;">
-</p>
+
+![1WPd00w - Imgur](https://github.com/user-attachments/assets/2e99c3b9-5831-4924-91f8-f9e070118e39)
+
 
 
 
