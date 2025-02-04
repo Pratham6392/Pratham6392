@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="file:///C:/Users/HP/Downloads/DALL%C2%B7E%202025-02-04%2014.49.33%20-%20A%20professional%20GitHub%20cover%20image%20featuring%20a%20developer%20working%20on%20a%20laptop%20in%20a%20modern%20workspace%20with%20a%20dark%20theme.%20The%20text%20'Hey,%20I%20am%20Pratham'%20is%20p.webp" alt="Cover Image" style="width:100%; max-width:800px;">
+ <blockquote class="imgur-embed-pub" lang="en" data-id="1WPd00w"><a href="https://imgur.com/1WPd00w">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 </p>
 
 
